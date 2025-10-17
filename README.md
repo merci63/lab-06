@@ -8,7 +8,7 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-N/A
+https://www.infoworld.com/article/2256967/comparing-java-objects-with-equals-and-hashcode.html
 
 ## Verbal Collaboration
 
